@@ -1,11 +1,11 @@
 # game-aids-for-the-elderly
 
-![Enquiry into augmenting the social lives of the elderly using GAMES](Archive/Projects/game-aids-for-the-elderly_2022/Assets/slide1.png)
+![Enquiry into augmenting the social lives of the elderly using GAMES](Assets/slide1.png)
 
 ## What questions do I think should guide our empathy when we think of the elderly and impaired?
-![When was the last time you played with your grandparents?](Archive/Projects/game-aids-for-the-elderly_2022/Assets/ques1.png)
+![When was the last time you played with your grandparents?](Assets/ques1.png)
 
-![](Archive/Projects/game-aids-for-the-elderly_2022/Assets/ques2.png)
+![](Assets/ques2.png)
 
 
 ## Possibilities 
