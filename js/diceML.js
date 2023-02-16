@@ -9,12 +9,6 @@ Readme: This model recognises dice faces and can be used to count the total valu
 --- 
 */
 
-
-
-
-
-
-
 // Get a prediction for the current video frame
 function classifyVideo() {
   flippedVideo = ml5.flipImage(video)

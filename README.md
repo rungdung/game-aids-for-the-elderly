@@ -13,6 +13,9 @@ To envision a series of explorations into ML based aids for game accessibility. 
 - Envisioning **it as a Social Media with an analogue interface for the digitally illiterate**. 
 - Understanding and designing inclusively for multiple, entrenched disabilities. 
 
+### Immediate possibilities 
+- Developing proof of concept prototypes for voice and visual aids. Think voice commands, pose recognition natural language processing, etc.
+
 ## Goals that need more time:
 The ML model trained is an image recognition model and not an object
 recognition model. This fundamentally introduces issues. I will need to train an object detection model and then use it on the sketch.
@@ -20,5 +23,4 @@ recognition model. This fundamentally introduces issues. I will need to train an
 **Access the sketch here**:
 https://editor.p5js.org/adhavan.sivaraj16/sketches/gYqQM01IU
 
-### Immediate possibilities 
-- Developing proof of concept prototypes for voice and visual aids. Think voice commands, pose recognition natural language processing, etc.
+
